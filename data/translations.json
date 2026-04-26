@@ -130,5 +130,809 @@
         "en": "Sun",
         "sk": "Slnko",
         "de": "Die Sonne"
+    },
+    {
+        "id": 23,
+        "en": "Moon",
+        "sk": "Mesiac",
+        "de": "Der Mond"
+    },
+    {
+        "id": 24,
+        "en": "Water",
+        "sk": "Voda",
+        "de": "Das Wasser"
+    },
+    {
+        "id": 25,
+        "en": "Name",
+        "sk": "Meno",
+        "de": "Der Name"
+    },
+    {
+        "id": 26,
+        "en": "City",
+        "sk": "Mesto",
+        "de": "Die Stadt"
+    },
+    {
+        "id": 27,
+        "en": "Slovakia",
+        "sk": "Slovensko",
+        "de": "Der Slowakei"
+    },
+    {
+        "id": 28,
+        "en": "Germany",
+        "sk": "Nemecko",
+        "de": "Deutschland"
+    },
+    {
+        "id": 29,
+        "en": "House",
+        "sk": "Dům",
+        "de": "Das Haus"
+    },
+    {
+        "id": 30,
+        "en": "Car",
+        "sk": "Auto",
+        "de": "Das Auto"
+    },
+    {
+        "id": 31,
+        "en": "come from",
+        "sk": "Pochádzať z",
+        "de": "Kommen aus"
+    },
+    {
+        "id": 32,
+        "en": "to go",
+        "sk": "ísť",
+        "de": "gehen"
+    },
+    {
+        "id": 33,
+        "en": "to eat",
+        "sk": "jesť",
+        "de": "essen"
+    },
+    {
+        "id": 34,
+        "en": "to drink",
+        "sk": "piť",
+        "de": "trinken"
+    },
+    {
+        "id": 35,
+        "en": "to sleep",
+        "sk": "spať",
+        "de": "schlafen"
+    },
+    {
+        "id": 36,
+        "en": "to read",
+        "sk": "čítať",
+        "de": "lesen"
+    },
+    {
+        "id": 37,
+        "en": "to write",
+        "sk": "písať",
+        "de": "schreiben"
+    },
+    {
+        "id": 38,
+        "en": "to speak",
+        "sk": "rozprávať",
+        "de": "sprechen"
+    },
+    {
+        "id": 39,
+        "en": "to listen",
+        "sk": "počúvať",
+        "de": "hören"
+    },
+    {
+        "id": 40,
+        "en": "to see",
+        "sk": "vidieť",
+        "de": "sehen"
+    },
+    {
+        "id": 41,
+        "en": "to run",
+        "sk": "bežať",
+        "de": "laufen"
+    },
+    {
+        "id": 42,
+        "en": "to walk",
+        "sk": "chodiť",
+        "de": "gehen"
+    },
+    {
+        "id": 43,
+        "en": "to swim",
+        "sk": "plávať",
+        "de": "schwimmen"
+    },
+    {
+        "id": 44,
+        "en": "to fly",
+        "sk": "lietať",
+        "de": "fliegen"
+    },
+    {
+        "id": 45,
+        "en": "to drive",
+        "sk": "šoférovať",
+        "de": "fahren"
+    },
+    {
+        "id": 46,
+        "en": "to work",
+        "sk": "pracovať",
+        "de": "arbeiten"
+    },
+    {
+        "id": 47,
+        "en": "to play",
+        "sk": "hrať",
+        "de": "spielen"
+    },
+    {
+        "id": 48,
+        "en": "to study",
+        "sk": "študovat",
+        "de": "studieren"
+    },
+    {
+        "id": 49,
+        "en": "to teach",
+        "sk": "učiť",
+        "de": "lehren"
+    },
+    {
+        "id": 50,
+        "en": "to learn",
+        "sk": "učiť sa",
+        "de": "lernen"
+    },
+    {
+        "id": 51,
+        "en": "to help",
+        "sk": "pomáhat",
+        "de": "helfen"
+    },
+    {
+        "id": 52,
+        "en": "to love",
+        "sk": "milovať",
+        "de": "lieben"
+    },
+    {
+        "id": 53,
+        "en": "to hate",
+        "sk": "nenávidieť",
+        "de": "hassen"
+    },
+    {
+        "id": 54,
+        "en": "to want",
+        "sk": "chcieť",
+        "de": "wollen"
+    },
+    {
+        "id": 55,
+        "en": "to need",
+        "sk": "potrebovať",
+        "de": "brauchen"
+    },
+    {
+        "id": 56,
+        "en": "to like",
+        "sk": "mať rád",
+        "de": "mögen"
+    },
+    {
+        "id": 57,
+        "en": "to dislike",
+        "sk": "nemať rád",
+        "de": "nicht mögen"
+    },
+    {
+        "id": 58,
+        "en": "single",
+        "sk": "slobodný",
+        "de": "ledig"
+    },
+    {
+        "id": 59,
+        "en": "married",
+        "sk": "ženatý",
+        "de": "verheiratet"
+    },
+    {
+        "id": 60,
+        "en": "divorced",
+        "sk": "rozvedený",
+        "de": "geschieden"
+    },
+    {
+        "id": 61,
+        "en": "old",
+        "sk": "starý",
+        "de": "alt"
+    },
+    {
+        "id": 62,
+        "en": "young",
+        "sk": "mladý",
+        "de": "jung"
+    },
+    {
+        "id": 63,
+        "en": "years old",
+        "sk": "rokov starý",
+        "de": "Jahre alt"
+    },
+    {
+        "id": 64,
+        "en": "How old are you?",
+        "sk": "Koľko máš rokov?",
+        "de": "Wie alt bist du?"
+    },
+    {
+        "id": 65,
+        "en": "Who",
+        "sk": "Kto?",
+        "de": "Wer?"
+    },
+    {
+        "id": 66,
+        "en": "What",
+        "sk": "Čo?",
+        "de": "Was?"
+    },
+    {
+        "id": 67,
+        "en": "Where",
+        "sk": "Kde?",
+        "de": "Wo?"
+    },
+    {
+        "id": 68,
+        "en": "When",
+        "sk": "Kedy?",
+        "de": "Wann?"
+    },
+    {
+        "id": 69,
+        "en": "Why",
+        "sk": "Prečo?",
+        "de": "Warum?"
+    },
+    {
+        "id": 70,
+        "en": "How",
+        "sk": "Ako?",
+        "de": "Wie?"
+    },
+    {
+        "id": 71,
+        "en": "Which",
+        "sk": "Ktorý?",
+        "de": "Welcher?"
+    },
+    {
+        "id": 72,
+        "en": "Whose",
+        "sk": "Čí?",
+        "de": "Wessen?"
+    },
+    {
+        "id": 73,
+        "en": "How many",
+        "sk": "Koľko?",
+        "de": "Wie viele?"
+    },
+    {
+        "id": 74,
+        "en": "How much",
+        "sk": "Koľko?",
+        "de": "Wie viel?"
+    },
+    {
+        "id": 75,
+        "en": "Child",
+        "sk": "Dieťa",
+        "de": "Der Kind"
+    },
+    {
+        "id": 76,
+        "en": "exactly",
+        "sk": "presne",
+        "de": "genau"
+    },
+    {
+        "id": 77,
+        "en": "No",
+        "sk": "Nie",
+        "de": "Nein"
+    },
+    {
+        "id": 78,
+        "en": "Yes",
+        "sk": "Áno",
+        "de": "Ja"
+    },
+    {
+        "id": 79,
+        "en": "Lot of Work",
+        "sk": "Veľa práce",
+        "de": "Viel Arbeit"
+    },
+    {
+        "id": 80,
+        "en": "Everywhere",
+        "sk": "Kdekoľvek",
+        "de": "Überall"
+    },
+    {
+        "id": 81,
+        "en": "morning",
+        "sk": "ráno",
+        "de": "morgen"
+    },
+    {
+        "id": 82,
+        "en": "tomorrow",
+        "sk": "zajtra",
+        "de": "morgen"
+    },
+    {
+        "id": 83,
+        "en": "evening",
+        "sk": "večer",
+        "de": "abend"
+    },
+    {
+        "id": 84,
+        "en": "night",
+        "sk": "noc",
+        "de": "nacht"
+    },
+    {
+        "id": 85,
+        "en": "today",
+        "sk": "dnes",
+        "de": "heute"
+    },
+    {
+        "id": 86,
+        "en": "yesterday",
+        "sk": "včera",
+        "de": "gestern"
+    },
+    {
+        "id": 87,
+        "en": "week",
+        "sk": "týždeň",
+        "de": "die Woche"
+    },
+    {
+        "id": 88,
+        "en": "month",
+        "sk": "měsíc",
+        "de": "der Monat"
+    },
+    {
+        "id": 89,
+        "en": "year",
+        "sk": "rok",
+        "de": "das Jahr"
+    },
+    {
+        "id": 90,
+        "en": "Monday",
+        "sk": "Pondělí",
+        "de": "Montag"
+    },
+    {
+        "id": 91,
+        "en": "Tuesday",
+        "sk": "Úterý",
+        "de": "Dienstag"
+    },
+    {
+        "id": 92,
+        "en": "Wednesday",
+        "sk": "Středa",
+        "de": "Mittwoch"
+    },
+    {
+        "id": 93,
+        "en": "Thursday",
+        "sk": "Čtvrtek",
+        "de": "Donnerstag"
+    },
+    {
+        "id": 94,
+        "en": "Friday",
+        "sk": "Pátek",
+        "de": "Freitag"
+    },
+    {
+        "id": 95,
+        "en": "Saturday",
+        "sk": "Sobota",
+        "de": "Samstag"
+    },
+    {
+        "id": 96,
+        "en": "Sunday",
+        "sk": "Neděle",
+        "de": "Sonntag"
+    },
+    {
+        "id": 97,
+        "en": "afternoon",
+        "sk": "popoludnie",
+        "de": "nachmittag"
+    },
+    {
+        "id": 98,
+        "en": "with",
+        "sk": "s",
+        "de": "mit"
+    },
+    {
+        "id": 99,
+        "en": "without",
+        "sk": "bez",
+        "de": "ohne"
+    },
+    {
+        "id": 100,
+        "en": "before",
+        "sk": "pred",
+        "de": "vor"
+    },
+    {
+        "id": 101,
+        "en": "after",
+        "sk": "po",
+        "de": "nach"
+    },
+    {
+        "id": 102,
+        "en": "to",
+        "sk": "do",
+        "de": "bis"
+    },
+    {
+        "id": 103,
+        "en": "from",
+        "sk": "od",
+        "de": "von"
+    },
+    {
+        "id": 104,
+        "en": "in",
+        "sk": "v",
+        "de": "in"
+    },
+    {
+        "id": 105,
+        "en": "on",
+        "sk": "na",
+        "de": "auf"
+    },
+    {
+        "id": 106,
+        "en": "journey",
+        "sk": "cesta",
+        "de": "der Weg"
+    },
+    {
+        "id": 107,
+        "en": "highway",
+        "sk": "diaľnica",
+        "de": "die Autobahn"
+    },
+    {
+        "id": 108,
+        "en": "street",
+        "sk": "ulica",
+        "de": "die Straße"
+    },
+    {
+        "id": 109,
+        "en": "road",
+        "sk": "cesta",
+        "de": "die Straße"
+    },
+    {
+        "id": 110,
+        "en": "now",
+        "sk": "teraz",
+        "de": "jetzt"
+    },
+    {
+        "id": 111,
+        "en": "later",
+        "sk": "později",
+        "de": "später"
+    },
+    {
+        "id": 112,
+        "en": "female Teacher",
+        "sk": "učitelka",
+        "de": "die Lehrerin"
+    },
+    {
+        "id": 113,
+        "en": "to make",
+        "sk": "urobiť",
+        "de": "machen"
+    },
+    {
+        "id": 114,
+        "en": "lie",
+        "sk": "ležať",
+        "de": "liegen"
+    },
+    {
+        "id": 115,
+        "en": "all",
+        "sk": "všetko",
+        "de": "alles"
+    },
+    {
+        "id": 116,
+        "en": "gladly",
+        "sk": "rád",
+        "de": "gern"       
+    },
+    {
+        "id": 117,
+        "en": "then",
+        "sk": "potom",
+        "de": "dann"
+    },
+    {
+        "id": 118,
+        "en": "office",
+        "sk": "kancelária",
+        "de": "das Büro"
+    },
+    {
+        "id": 119,
+        "en": "north",
+        "sk": "sever",
+        "de": "der Norden"
+    },
+    {
+        "id": 120,
+        "en": "south",
+        "sk": "juh",
+        "de": "der Süden"
+    },
+    {
+        "id": 121,
+        "en": "east",
+        "sk": "východ",
+        "de": "der Osten"
+    },
+    {
+        "id": 122,
+        "en": "west",
+        "sk": "západ",
+        "de": "der Westen"
+    },
+    {
+        "id": 123,
+        "en": "strength training",
+        "sk": "posilovanie",
+        "de": "das Krafttraining"
+    },
+    {
+        "id": 124,
+        "en": "Lunch break",
+        "sk": "obedová pauza",
+        "de": "der Mittagsschlaf"
+    },
+    {
+        "id": 125,
+        "en": "Lunch",
+        "sk": "obed",
+        "de": "das Mittagessen"
+    },
+    {
+        "id": 126,
+        "en": "break",
+        "sk": "pauza",
+        "de": "die Pause"
+    },
+    {
+        "id": 127,
+        "en": "and",
+        "sk": "a",
+        "de": "und"
+    },
+    {
+        "id": 128,
+        "en": "but",
+        "sk": "ale",
+        "de": "aber"
+    },
+    {
+        "id": 129,
+        "en": "or",
+        "sk": "nebo",
+        "de": "oder"
+    },
+    {
+        "id": 130,
+        "en": "because",
+        "sk": "pretože",
+        "de": "denn"
+    },
+    {
+        "id": 131,
+        "en": "purchase",
+        "sk": "nákup",
+        "de": "der Kauf"
+    },
+    {
+        "id": 132,
+        "en": "to buy",
+        "sk": "koupit",
+        "de": "kaufen"
+    },
+    {
+        "id": 133,
+        "en": "shopping",
+        "sk": "nákup",
+        "de": "das Einkaufen"
+    },
+    {
+        "id": 134,
+        "en": "groceries",
+        "sk": "potraviny",
+        "de": "die Lebensmittel"
+    },
+    {
+        "id": 135,
+        "en": "wake up",
+        "sk": "zobudiť sa",
+        "de": "aufwachen"
+    },
+    {
+        "id": 136,
+        "en": "many times",
+        "sk": "mnohokrát",
+        "de": "vielmals"
+    },
+    {
+        "id": 137,
+        "en": "stand up",
+        "sk": "vstať",
+        "de": "aufstehen"
+    },
+    {
+        "id": 138,
+        "en": "something",
+        "sk": "niečo",
+        "de": "etwas"
+    },
+    {
+        "id": 139,
+        "en": "hour",
+        "sk": "hodina",
+        "de": "die Stunde"
+    },
+    {
+        "id": 140,
+        "en": "minute",
+        "sk": "minuta",
+        "de": "die Minute"
+    },
+    {
+        "id": 141,
+        "en": "soup",
+        "sk": "polievka",
+        "de": "der Suppe"
+    },
+    {
+        "id": 142,
+        "en": "salad",
+        "sk": "salát",
+        "de": "der Salat"
+    },
+    {
+        "id": 143,
+        "en": "often",
+        "sk": "často",
+        "de": "oft"
+    },
+    {
+        "id": 144,
+        "en": "rarely",
+        "sk": "občas",
+        "de": "manchmal"       
+    },
+    {
+        "id": 145,
+        "en": "stay",
+        "sk": "zostať",
+        "de": "bleiben"
+    },
+    {
+        "id": 146,
+        "en": "to be able to",
+        "sk": "moci",
+        "de": "können"
+    },
+    {
+        "id": 147,
+        "en": "to have to",
+        "sk": "musieť",
+        "de": "müssen"
+    },
+    {
+        "id": 148,
+        "en": "mostly",
+        "sk": "väčšinou",
+        "de": "meistens"
+    },
+    {
+        "id": 149,
+        "en": "Woman",
+        "sk": "Žena",
+        "de": "die Frau"
+    },        
+    {
+        "id": 150,
+        "en": "Man",
+        "sk": "Muž",
+        "de": "der Mann"
+    },
+    {
+        "id": 151,
+        "en": "Boy",
+        "sk": "Chlapec",
+        "de": "der Junge"
+    },
+    {
+        "id": 152,
+        "en": "girl",
+        "sk": "Dievča",
+        "de": "das Mädchen"
+    },
+    {
+        "id": 153,
+        "en": "also",
+        "sk": "tiež",
+        "de": "auch"
+    },
+    {
+        "id": 154,
+        "en": "quite",
+        "sk": "celkom",
+        "de": "ziemlich"
+    },
+    {
+        "id": 155,
+        "en": "really",
+        "sk": "naozaj",
+        "de": "wirklich"
+    },
+    {
+        "id": 156,
+        "en": "very",
+        "sk": "veľmi",
+        "de": "sehr"
     }
 ]
