@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "en": "to live",
+        "sk": "bývať",
+        "de": "wohnen"
+    },
+    {
+        "id": 2,
+        "en": "to come",
+        "sk": "prísť",
+        "de": "kommen"
+    },
+    {
+        "id": 3,
+        "en": "to understand",
+        "sk": "rozumieť",
+        "de": "verstehen"
+    },
+    {
+        "id": 4,
+        "en": "to cook",
+        "sk": "variť",
+        "de": "kochen"
+    },
+    {
+        "id": 5,
+        "en": "to learn",
+        "sk": "učiť sa",
+        "de": "lernen"
+    },
+    {
+        "id": 6,
+        "en": "to repair",
+        "sk": "opraviť",
+        "de": "reparieren"
+    },
+    {
+        "id": 7,
+        "en": "to have",
+        "sk": "mať",
+        "de": "haben"
+    },
+    {
+        "id": 8,
+        "en": "to be",
+        "sk": "byť",
+        "de": "sein"
+    },
+    {
+        "id": 9,
+        "en": "Good morning",
+        "sk": "Dobré ráno",
+        "de": "Guten Morgen"
+    },
+    {
+        "id": 10,
+        "en": "Good day",
+        "sk": "Dobrý deň",
+        "de": "Guten Tag"
+    },
+    {
+        "id": 11,
+        "en": "Good afternoon",
+        "sk": "Dobré popoludnie",
+        "de": "Guten Nachmittag"
+    },
+    {
+        "id": 12,
+        "en": "Good evening",
+        "sk": "Dobrý večer",
+        "de": "Guten Abend"
+    },
+    {
+        "id": 13,
+        "en": "Good night",
+        "sk": "Dobrú noc",
+        "de": "Gute Nacht"
+    },
+    {
+        "id": 14,
+        "en": "Where",
+        "sk": "Kde",
+        "de": "Wo"
+    },
+    {
+        "id": 15,
+        "en": "Work",
+        "sk": "Práca",
+        "de": "Die Arbeit"
+    },
+    {
+        "id": 16,
+        "en": "Brother",
+        "sk": "Brat",
+        "de": "Der Bruder"
+    },
+    {
+        "id": 17,
+        "en": "Sister",
+        "sk": "Sestra",
+        "de": "Die Schwester"
+    },
+    {
+        "id": 18,
+        "en": "Father",
+        "sk": "Otec",
+        "de": "Der Vater"
+    },
+    {
+        "id": 19,
+        "en": "Mother",
+        "sk": "Matka",
+        "de": "Die Mutter"
+    },
+    {
+        "id": 20,
+        "en": "Apple",
+        "sk": "Jablko",
+        "de": "Der Apfel"
+    },
+    {
+        "id": 21,
+        "en": "Bread",
+        "sk": "Chlieb",
+        "de": "Das Brot"
+    },
+    {
+        "id": 22,
+        "en": "Sun",
+        "sk": "Slnko",
+        "de": "Die Sonne"
+    }
+]

@@ -1,0 +1,1 @@
+"""German Translation Practice Application"""

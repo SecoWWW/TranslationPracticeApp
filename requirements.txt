@@ -1,0 +1,2 @@
+# German Translation Practice Application Requirements
+# No external dependencies required - uses Python 3 standard library
