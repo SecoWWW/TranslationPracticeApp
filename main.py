@@ -15,6 +15,8 @@ from src.ui.terminal_ui import TerminalUI
 def main():
     """Main entry point for the application."""
     # Path to the translations data file
+    # Concat the path to ensure it works regardless of the current working directory, 
+    # this approach is allowed  because of pathlib usage and is more robust than hardcoding a relative path.
     data_file_path = Path(__file__).parent / "data" / "translations.json"
 
     if not data_file_path.exists():

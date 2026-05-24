@@ -99,7 +99,7 @@ class TranslationManager:
                 validation['errors'].append(f"Translation {idx}: Missing 'id' field")
                 validation['valid'] = False
 
-            if len(translation) < 2:
+            if len(translation) < len(validation['languages']):
                 validation['errors'].append(f"Translation {idx}: Missing language data")
                 validation['valid'] = False
 
