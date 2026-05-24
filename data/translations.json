@@ -934,5 +934,17 @@
         "en": "very",
         "sk": "veľmi",
         "de": "sehr"
+    },
+    {
+        "id": 157,
+        "en": "exciting",
+        "sk": "zaujímavý",
+        "de": "aufregend"
+    },
+    {
+        "id": 158,
+        "en": "always",
+        "sk": "vždy",
+        "de": "immer"
     }
 ]
